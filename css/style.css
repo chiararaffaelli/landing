@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Quicksand&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Calibri', sans-serif;
+	font-size: 14px;
+	margin: 0px;
+	text-align: justify;
+}
+
+h1, h2, h3 {
+	font-family: 'Calibri', sans-serif;
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
